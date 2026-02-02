@@ -119,6 +119,7 @@ Tout commence par le **couteau en pierre** — l'outil de base qui débloque la 
 | **Axe** | Hache | Moyenne |
 
 ⚠️ **Attention** : La viande de loup (Wolf) et d'ours (Bear) peut causer la **salmonellose** même cuite !
+💡 **Astuce** : Prendre une **Multivitamin Pill** (vitamine) **AVANT** de manger pour avoir une immunité temporaire. Attention : cette protection n'est plus aussi fiable depuis les récentes mises à jour — cuire la viande reste fortement recommandé.
 
 ### Ressources animales
 
@@ -139,10 +140,12 @@ Tout commence par le **couteau en pierre** — l'outil de base qui débloque la 
 
 | Nom en jeu | Traduction FR | Ingrédients | Outil |
 |------------|---------------|-------------|-------|
-| **Fishing Rod** (improvisée) | Canne à pêche | 1× Long Stick + 1× Rope (corde) | Aucun |
+| **Improvised Fishing Rod** | **Canne à pêche improvisée** | 1× Long Stick (bâton long) + 1× Rope (corde) | Aucun |
 | **Bone Fishing Hook** | Hameçon en os | Bones (os) | Couteau, Scie ou Hache |
 | **Fishing Hook** | Hameçon métallique | Non craftable (loot) | — |
-| **Earthworm** | Ver de terre | Creuser le sol | Pelle, Pioche ou Couteau |
+| **Earthworm** | Ver de terre | Creuser le sol (vue 1ère personne) | Couteau, Pelle, Pioche ou Houe (**pas à mains nues !**) |
+
+💡 **Rendement en vers** : Houe = 4 vers, Pelle = 3 vers, Couteau/Pioche = 1-2 vers. Les vers ne se stackent pas dans l'inventaire.
 | **Baited Hook** | Hameçon appâté | Hameçon + Ver de terre | Aucun |
 
 ### Pièges à poisson
@@ -160,7 +163,8 @@ Tout commence par le **couteau en pierre** — l'outil de base qui débloque la 
 | **Mackerel** | Maquereau | Eau salée (mer) |
 | **Sardines** | Sardines | Eau salée |
 
-⚠️ Tous les poissons doivent être **vidés au couteau** avant cuisson !
+⚠️ **Vidage des poissons** : Les gros poissons (Carp, Mackerel, Pollock) doivent être **vidés avec un outil tranchant** (couteau, hachette, machette...) pour obtenir des filets avant cuisson. Les petits (Shrimp/crevettes, Bitterlings/ablettes, Sardines) se cuisinent **entiers sans vidage**.
+💡 Les multivitamines ne dispensent PAS du vidage — sans filets, pas de cuisson possible !
 
 ---
 
@@ -293,7 +297,7 @@ Tout commence par le **couteau en pierre** — l'outil de base qui débloque la 
 |------------|---------------|--------|
 | **Tetracycline Pills** | Pilules de tétracycline | Choléra, Grippe, Infection de plaie |
 | **Charcoal Tablets** | Tablettes de charbon | Salmonellose, Empoisonnement |
-| **Multivitamin Pills** | Vitamines | Renforce immunité, aide guérison rhume |
+| **Multivitamin Pills** | Vitamines | Immunité temporaire (choléra, salmonellose, grippe). Prendre **AVANT** l'exposition. Double l'effet de la Tetracycline et du Charbon |
 | **Painkillers** | Antidouleurs | Réduit tremblements |
 | **Codeine Pills** | Pilules de codéine | Douleur intense |
 | **PO-X Antidote** | Antidote PO-X | Empoisonnement au gaz |
