@@ -13,7 +13,7 @@ Tout commence par le **couteau en pierre** — l'outil de base qui débloque la 
 |------------|---------------|-------------|--------------|---------|
 | **Stone Knife** | Couteau en pierre | 2× Small Stone (petite pierre) | Aucun | Dépecer, couper vêtements, ouvrir conserves |
 | **Bone Knife** | Couteau en os | 2× Bones (os) | Aucun | Alternative au couteau en pierre |
-| **Hand Drill Kit** | Kit de foret à main | 1× Short Stick (bâton court) + 1× Bark (écorce) | Couteau | Allumer feux sans allumettes |
+| **Hand Drill Kit** | Allume-feu à friction | 1× Short Stick (bâton court) + 1× Bark (écorce) | Couteau | Allumer feux sans allumettes |
 | **Sharpening Stone** | Pierre à aiguiser | Non craftable (loot) | — | Réparer outils tranchants |
 
 ### Sources de pierres
@@ -53,7 +53,7 @@ Tout commence par le **couteau en pierre** — l'outil de base qui débloque la 
 | **Matches** | Allumettes | Usage unique par allumette |
 | **Lighter** | Briquet | Réutilisable |
 | **Road Flare** | Fusée éclairante | Aussi source de lumière |
-| **Hand Drill Kit** | Foret à main | Craftable (voir plus haut) |
+| **Hand Drill Kit** | Allume-feu à friction | Craftable (voir plus haut) |
 
 ### Ustensiles de cuisson
 
@@ -527,7 +527,7 @@ Tout commence par le **couteau en pierre** — l'outil de base qui débloque la 
 | Priorité | Objet | Pourquoi |
 |----------|-------|----------|
 | 1 | **Stone Knife** (Couteau en pierre) | Débloque presque tout |
-| 2 | **Hand Drill Kit** (Foret à main) | Feu sans allumettes |
+| 2 | **Hand Drill Kit** (Allume-feu à friction) | Feu sans allumettes |
 | 3 | **Fireplace** (Feu de camp) | Chaleur et cuisson |
 | 4 | **Rope** (Corde) | Sacs et pêche |
 | 5 | **Fishing Rod** (Canne à pêche) | Nourriture fiable |
